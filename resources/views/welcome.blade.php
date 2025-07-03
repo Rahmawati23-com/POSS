@@ -1304,8 +1304,8 @@
             <img src="{{ asset('storage/najwa.jpg') }}" alt="CEO" style="width: 200px; height: 200px; object-fit: cover;">
             <div class="member-overlay">
                 <div class="social-links">
-                    <a href="#"><i class="fab fa-linkedin"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/najwa-syahri-46b032304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/rkive_gf?igsh=MWFndmlvY2tiYzE1ag== "><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
@@ -1340,7 +1340,7 @@
             </div>
         </div>
         <div class="member-info">
-            <h4>Rapidzal</h4>
+            <h4>Rafidzal sunarto</h4>
         </div>
     </div>
 </div>
